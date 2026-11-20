@@ -19,3 +19,5 @@
 .project-visual{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;margin-top:16px;border:1px solid rgba(255,255,255,.12);border-radius:16px;background:#111116}
 
 .project-role{display:grid;gap:7px;margin-top:12px;color:var(--ink);font-size:14px;line-height:1.45}.project-role strong{font-weight:650}.project-role span{color:#c9c6c0;font-size:13px}
+
+.education-photo-wrap{margin:16px 0 0}.education-photo-wrap .education-photo{margin-top:0}.education-photo-wrap figcaption{padding:8px 2px;color:var(--mute);font:10px/1.5 var(--mono);letter-spacing:.06em}
