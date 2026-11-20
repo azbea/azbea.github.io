@@ -168,4 +168,28 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://abbosov.com/ru/future/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://abbosov.com/future/" />
   </url>
+  <url>
+    <loc>https://abbosov.com/gallery/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abbosov.com/gallery/" />
+    <xhtml:link rel="alternate" hreflang="uz" href="https://abbosov.com/uz/gallery/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://abbosov.com/ru/gallery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abbosov.com/gallery/" />
+  </url>
+  <url>
+    <loc>https://abbosov.com/uz/gallery/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abbosov.com/gallery/" />
+    <xhtml:link rel="alternate" hreflang="uz" href="https://abbosov.com/uz/gallery/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://abbosov.com/ru/gallery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abbosov.com/gallery/" />
+  </url>
+  <url>
+    <loc>https://abbosov.com/ru/gallery/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abbosov.com/gallery/" />
+    <xhtml:link rel="alternate" hreflang="uz" href="https://abbosov.com/uz/gallery/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://abbosov.com/ru/gallery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abbosov.com/gallery/" />
+  </url>
 </urlset>
