@@ -1,0 +1,1 @@
+(() => {const modules=window.AdminModules;function current(){return (location.hash.replace(/^#\/?/,'')||'dashboard').split('/')[0];}function go(name){location.hash=`/${name}`;}window.AdminRouter={modules,current,go};})();

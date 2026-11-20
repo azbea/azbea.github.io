@@ -1,0 +1,47 @@
+[
+  {
+    "name": "BekeDu.uz",
+    "url": "https://bekedu.uz",
+    "category": "Web platform",
+    "status": "Live",
+    "description": "Done for good learning.",
+    "role": null,
+    "technologies": null,
+    "repository": null,
+    "screenshot": null
+  },
+  {
+    "name": "ShokMarket.uz",
+    "url": "https://shokmarket.uz",
+    "category": "Marketplace",
+    "status": "Live",
+    "description": null,
+    "role": null,
+    "technologies": null,
+    "repository": null,
+    "screenshot": null
+  },
+  {
+    "name": "FaslMarket.uz",
+    "url": "https://faslmarket.uz",
+    "category": "Marketplace",
+    "status": "Live",
+    "description": null,
+    "role": null,
+    "technologies": null,
+    "repository": null,
+    "screenshot": null
+  },
+  {
+    "name": "Education-center management platform",
+    "url": null,
+    "category": "Education technology",
+    "status": "In development / planning",
+    "description": "A multi-tenant management platform concept for education centers.",
+    "role": null,
+    "technologies": null,
+    "repository": null,
+    "screenshot": null,
+    "plannedModules": ["Platform admin", "Center owner/admin", "Teachers", "Students", "Attendance", "Homework", "Grades", "Schedules", "Financial records", "Payment tracking"]
+  }
+]

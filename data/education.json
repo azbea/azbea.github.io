@@ -1,0 +1,38 @@
+[
+  {
+    "period": "2014–2023",
+    "institution": "Secondary School No. 3",
+    "location": "Chust, Uzbekistan",
+    "program": "Secondary education",
+    "description": "School education completed in 2023.",
+    "status": "Completed",
+    "memoryPlaceholder": "[Add a personal memory about this period.]"
+  },
+  {
+    "period": "2023–2025",
+    "institution": "Chust District Polytechnic No. 2",
+    "location": "Chust, Uzbekistan",
+    "program": "Polytechnic education",
+    "description": "Graduated with honors and received a red diploma.",
+    "status": "Graduated with honors",
+    "memoryPlaceholder": "[Add a personal memory about this period.]"
+  },
+  {
+    "period": "2025",
+    "institution": "Korea Aerospace University (KAU)",
+    "location": "South Korea",
+    "program": "Aviation Management (Pilot Program)",
+    "description": "Completed the first academic year (two semesters); subsequently took academic leave.",
+    "status": "Academic leave",
+    "memoryPlaceholder": "[Add a personal memory about this period.]"
+  },
+  {
+    "period": "2025 – present",
+    "institution": "Tashkent State University of Economics (TSUE)",
+    "location": "Uzbekistan",
+    "program": "Banking · Online format with some offline exams",
+    "description": "Ongoing study.",
+    "status": "In progress",
+    "memoryPlaceholder": "[Add a personal memory about this period.]"
+  }
+]

@@ -1,0 +1,5 @@
+*{box-sizing:border-box;margin:0;padding:0}
+html{background:var(--bg)}
+body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;font-optical-sizing:auto;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+body{min-width:320px;min-height:100svh}
+a{color:inherit}button{font:inherit;color:inherit;cursor:pointer}button:focus-visible,a:focus-visible{outline:2px solid var(--e2);outline-offset:4px}::selection{background:var(--e1);color:var(--ink)}

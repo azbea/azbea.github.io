@@ -1,0 +1,16 @@
+@font-face{font-family:'Inter';src:url('/assets/fonts/inter-variable.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-036F,U+2000-206F,U+20AC,U+2122,U+2190-2199,U+2212,U+FEFF,U+FFFD}
+@font-face{font-family:'Inter';src:url('/assets/fonts/inter-variable.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap;unicode-range:U+0100-024F,U+1E00-1EFF}
+@font-face{font-family:'Inter';src:url('/assets/fonts/inter-variable.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap;unicode-range:U+0400-052F,U+1C80-1C8A,U+2DE0-2DFF,U+A640-A69F}
+@font-face{font-family:'Inter Display';src:url('/assets/fonts/inter-variable.woff2') format('woff2');font-style:normal;font-weight:600 800;font-display:swap;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-036F,U+2000-206F,U+20AC,U+2122,U+2190-2199,U+2212,U+FEFF,U+FFFD}
+@font-face{font-family:'Inter Display';src:url('/assets/fonts/inter-variable.woff2') format('woff2');font-style:normal;font-weight:600 800;font-display:swap;unicode-range:U+0100-024F,U+1E00-1EFF}
+@font-face{font-family:'Inter Display';src:url('/assets/fonts/inter-variable.woff2') format('woff2');font-style:normal;font-weight:600 800;font-display:swap;unicode-range:U+0400-052F,U+1C80-1C8A,U+2DE0-2DFF,U+A640-A69F}
+@font-face{font-family:'DejaVu Sans Mono';src:url('/assets/fonts/dejavu-sans-mono.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap;unicode-range:U+0000-00FF,U+02BB-02BC,U+2000-206F,U+2190-2199}
+@font-face{font-family:'DejaVu Sans Mono';src:url('/assets/fonts/dejavu-sans-mono.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap;unicode-range:U+0100-024F,U+1E00-1EFF}
+@font-face{font-family:'DejaVu Sans Mono';src:url('/assets/fonts/dejavu-sans-mono.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap;unicode-range:U+0400-052F,U+1C80-1C8A,U+2DE0-2DFF,U+A640-A69F}
+:root{
+  --bg:#050507; --bg2:#0b0b10; --ink:#f3efe9; --mute:#8b8a93; --line:rgba(255,255,255,.09);
+  --e1:#ff4d1c; --e2:#ff9a3d; --e3:#ffd27a;
+  --grad:linear-gradient(100deg,var(--e1),var(--e2) 55%,var(--e3));
+  --display:'Inter Display','Inter',system-ui,sans-serif;
+  --mono:'DejaVu Sans Mono','Anonymous Pro',monospace;
+}

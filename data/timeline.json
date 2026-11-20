@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2007-06-19",
+    "label": "2007 · 19 June",
+    "title": "Born in Chust, Uzbekistan",
+    "description": "Azizbek Abbosov was born in Chust, Uzbekistan.",
+    "category": "Origin"
+  },
+  {
+    "date": "2014",
+    "label": "2014",
+    "title": "Began secondary school",
+    "description": "Started at Secondary School No. 3 in Chust, Uzbekistan.",
+    "category": "Education"
+  },
+  {
+    "date": "2023",
+    "label": "2023",
+    "title": "Completed school and began polytechnic education",
+    "description": "Completed Secondary School No. 3 and began studying at Chust District Polytechnic No. 2.",
+    "category": "Education"
+  },
+  {
+    "date": "2025",
+    "label": "2025",
+    "title": "Graduated from Chust District Polytechnic No. 2",
+    "description": "Graduated with honors and received a red diploma.",
+    "category": "Education"
+  },
+  {
+    "date": "2025",
+    "label": "2025",
+    "title": "Began Aviation Management studies at KAU",
+    "description": "Started the Aviation Management (Pilot Program) at Korea Aerospace University in South Korea. The first academic year, semesters one and two, was completed.",
+    "category": "Education"
+  },
+  {
+    "date": "2025",
+    "label": "2025",
+    "title": "Began Banking studies at TSUE",
+    "description": "Started the Banking program at Tashkent State University of Economics in an online format with some offline examinations.",
+    "category": "Education"
+  },
+  {
+    "date": null,
+    "label": "Date to be confirmed",
+    "title": "Took academic leave from KAU",
+    "description": "Azizbek Abbosov subsequently took academic leave from Korea Aerospace University. The date has not been provided.",
+    "category": "Education",
+    "dateToBeConfirmed": true
+  }
+]
