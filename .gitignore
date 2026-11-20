@@ -5,7 +5,4 @@ MASTER_PROJECT_PROMPT.md
 CODEX_*.md
 *_REPORT.md
 scripts/
-!scripts/
-scripts/*
-!scripts/seo_audit.py
 data/private*
